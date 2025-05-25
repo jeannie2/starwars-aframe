@@ -1,6 +1,6 @@
 # Star Wars Episode 5 Opening Crawl (VR)
 
-Restoration of old project (2022) using A-Frame
+Basic restoration of old project (2022) using A-Frame
 
 ## Technologies
 
