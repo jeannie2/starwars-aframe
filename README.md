@@ -7,4 +7,4 @@ Restoration of old project (2022) using A-Frame
 This project was made using HTML, CSS, JavaScript, A-Frame
 
 ## How to use
-View on desktop (arrow keys, mouse) or VR
+Click link (https://starwars-aframe.vercel.app/), view on desktop (arrow keys) / mobile or VR
